@@ -1,0 +1,343 @@
+Welcome to D&D Dice Roller!
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                        ▀▀▀▀                                                                                         
+                                                                                      ▀▀ ▀▀▀▀▀                                                                                       
+                                                                                    ▀▀▀▀▀▀ ▀▀▀▀▀▀                                                                                    
+                                                                                  ▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀                                                                                 
+                                                                                 ▀▀▀ ▀▀ ▀  ▀ ▀▀▀  ▀▀                                                                                 
+                                                                                  ▀▀▀▀  ▀ ▀▀ ▀▀▀▀▀▀▀                                                                                 
+                                                                                 ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀                                                                                 
+                                                                                  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                                 
+                                                                                    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀              ▀▀▀▀▀                                                                
+                                                                ▀▀▀▀▀▀▀▀           ▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀            ▀▀▀▀▀ ▀▀▀                                                              
+                                                            ▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀       ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀          ▀▀▀▀ ▀▀  ▀ ▀ ▀                                                            
+                                                           ▀▀▀▀▀  ▀▀▀▀▀▀ ▀▀▀         ▀▀▀▀                 ▀ ▀▀▀▀▀▀▀▀▀▀  ▀▀                                                           
+                                                           ▀▀▀▀▀▀▀▀ ▀ ▀ ▀▀▀▀▀▀              ▀▀            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                           
+                                                          ▀▀▀▀  ▀▀ ▀ ▀▀▀ ▀▀▀▀▀             ▀▀▀▀          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀                                                          
+                                                         ▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀            ▀ ▀▀ ▀        ▀ ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                          
+                                                          ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀         ▀▀▀▀ ▀▀▀          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                          
+                                                         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀        ▀▀▀▀▀▀▀▀▀▀▀        ▀▀▀▀▀▀▀ ▀▀▀▀▀  ▀                                                           
+                                                         ▀▀▀▀▀▀▀▀▀▀▀▀ ▀  ▀▀▀▀▀        ▀▀▀▀▀▀▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀▀▀                                                              
+                                                          ▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀      ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                                 
+                                                            ▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                               
+                                                               ▀▀▀▀▀▀▀▀▀▀▀         ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                               
+                                                            ▀▀▀▀▀▀▀▀▀▀▀▀▀           ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀           ▀▀▀▀▀                                                               
+                                                          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                   ▀▀▀▀▀▀▀▀▀▀▀▀                                                           
+                                                         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀▀▀▀                                                         
+                                                       ▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀                             ▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                        
+                                                          ▀▀▀▀▀ ▀▀▀▀ ▀ ▀ ▀▀              ▀▀▀▀▀        ▀ ▀▀▀▀▀▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀                                                        
+                                                     ▀      ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀        ▀▀▀▀▀▀ ▀▀▀▀▀     ▀ ▀ ▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀ ▀▀                                                        
+                                                     ▀   ▀ ▀▀▀ ▀ ▀ ▀▀▀▀▀▀       ▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀                                                       
+                                                          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     ▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                         
+                                                            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀  ▀▀ ▀▀▀ ▀▀▀ ▀▀ ▀▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀                                                         
+                                                        ▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀▀     ▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀                                                           
+                                                              ▀▀▀             ▀▀▀ ▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀      ▀▀                                                              
+                                                                       ▀   ▀     ▀▀ ▀▀ ▀▀  ▀ ▀▀▀▀▀ ▀▀          ▀▀                                                                    
+                                                                                ▀▀▀ ▀▀▀▀▀ ▀▀▀▀ ▀▀▀▀▀▀▀                                                                               
+                                                                            ▀    ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀     ▀                                                                          
+                                                                        ▀    ▀   ▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀                                                                                
+                                                                              ▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀                                                                                  
+                                                                          ▀     ▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀     ▀▀                                                                              
+                                                                          ▀▀         ▀   ▀▀▀      ▀                                                                                  
+                                                                            ▀▀  ▀▀   ▀▀▀▀▀     ▀▀▀                                                                                   
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+Please enter Machine weapon set.
+Name of weapon:
+Hit chance for Khopesh:
+Damage modifier for Khopesh:
+Dice size for Khopesh:
+Khopesh has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Sickle:
+Damage modifier for Sickle:
+Dice size for Sickle:
+Sickle has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Handaxe:
+Damage modifier for Handaxe:
+Dice size for Handaxe:
+Handaxe has been added to Machine weapon set.
+Please enter Human weapon set.
+Name of weapon:
+Hit chance for Longsword:
+Dice size for Longsword:
+Longsword has been added to Human weapon set.
+Name of weapon:
+Hit chance for Mace:
+Dice size for Mace:
+Mace has been added to Human weapon set.
+Name of weapon:
+Hit chance for Rapier:
+Dice size for Rapier:
+Rapier has been added to Human weapon set.
+Enter starting health for the players.
+Please enter name of Player One (Machine if machine).
+Please enter name of Player Two (Machine if machine).
+How many rounds would you like to play?
+
+ROUND 1 of 3:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Machines weapon is the Khopesh.
+Mibrams weapon is the Longsword.
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                     ▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                              
+                                                                                                   ▀▀       ▀▀         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                              
+                                                         ▀▀▀▀             ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀     ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀      ▀▀▀▀▀ ▀▀                                               
+                                                 ▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀   ▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀         ▀▀▀▀▀▀▀▀▀▀▀▀                                                  
+                                              ▀▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀    ▀▀▀▀ ▀▀▀▀▀    ▀▀▀▀▀▀▀▀ ▀                                                      
+                                             ▀  ▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀ ▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀      ▀▀▀    ▀▀▀   ▀▀▀▀   ▀▀                                                        
+                                             ▀▀▀▀▀ ▀      ▀▀▀▀▀▀        ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀    ▀▀      ▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀    ▀▀                                                          
+                                              ▀▀▀▀▀▀             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       ▀▀  ▀  ▀▀▀▀▀▀▀ ▀▀▀▀▀  ▀▀     ▀                                                           
+                                               ▀▀▀   ▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀       ▀▀▀▀▀▀  ▀▀▀▀▀▀   ▀▀▀▀  ▀▀     ▀                                                            
+                                                 ▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀          ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀ ▀▀▀▀▀▀  ▀▀     ▀                                                             
+                                                ▀▀▀▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀ ▀  ▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀  ▀▀▀▀▀ ▀▀▀▀▀▀  ▀▀  ▀▀  ▀                                                             
+                                                   ▀▀ ▀ ▀▀▀▀▀      ▀▀▀▀▀ ▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀  ▀▀ ▀  ▀▀▀▀▀▀ ▀▀ ▀     ▀▀▀▀▀  ▀                                                             
+                                                     ▀ ▀▀       ▀▀▀▀▀▀▀ ▀▀▀    ▀▀     ▀▀▀▀▀▀▀  ▀▀  ▀▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀   ▀                                                              
+                                                     ▀▀▀▀    ▀▀▀▀▀▀ ▀▀  ▀▀ ▀▀  ▀▀▀▀  ▀▀▀▀ ▀▀ ▀▀▀ ▀▀▀▀▀▀▀▀ ▀▀▀▀▀     ▀▀                                                               
+                                                     ▀▀▀▀  ▀ ▀▀ ▀  ▀▀▀  ▀▀ ▀▀▀▀ ▀▀  ▀  ▀▀ ▀   ▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀                                                                 
+                                                       ▀▀     ▀▀ ▀▀▀   ▀▀▀ ▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀  ▀▀▀▀         ▀  ▀▀▀▀▀                                                                    
+                                                      ▀▀▀    ▀▀▀  ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀                                                                                   
+                                                    ▀▀     ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀   ▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀ ▀▀                                                                                     
+                                                   ▀ ▀▀ ▀▀▀▀▀▀    ▀▀▀▀   ▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀                                                                                       
+                                                  ▀     ▀▀▀  ▀▀▀▀▀▀▀      ▀▀▀▀▀      ▀▀▀▀                                                                                            
+                                                  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                                                                    
+                                                   ▀▀▀▀▀▀▀▀▀▀▀                                                                                                                       
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+Machine has missed.
+Mibram has missed.
+Machine has missed.
+Mibram swung and hit for 18 points of damage.
+ Machines health is now 82.
+Machine has missed.
+Mibram swung and hit for 10 points of damage.
+ Machines health is now 72.
+Machine has missed.
+Mibram swung and hit for 12 points of damage.
+ Machines health is now 60.
+Machine has missed.
+Mibram swung and hit for 2 points of damage.
+ Machines health is now 58.
+Machine has missed.
+Mibram swung and hit for 16 points of damage.
+ Machines health is now 42.
+Machine has missed.
+Mibram swung and hit for 6 points of damage.
+ Machines health is now 36.
+Machine has missed.
+Mibram swung and hit for 36 points of damage.
+ Machine has died.
+
+ROUND 2 of 3:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Machines weapon is the Handaxe.
+Mibrams weapon is the Mace.
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                     ▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                              
+                                                                                                   ▀▀       ▀▀         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                              
+                                                         ▀▀▀▀             ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀     ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀      ▀▀▀▀▀ ▀▀                                               
+                                                 ▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀   ▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀         ▀▀▀▀▀▀▀▀▀▀▀▀                                                  
+                                              ▀▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀    ▀▀▀▀ ▀▀▀▀▀    ▀▀▀▀▀▀▀▀ ▀                                                      
+                                             ▀  ▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀ ▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀      ▀▀▀    ▀▀▀   ▀▀▀▀   ▀▀                                                        
+                                             ▀▀▀▀▀ ▀      ▀▀▀▀▀▀        ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀    ▀▀      ▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀    ▀▀                                                          
+                                              ▀▀▀▀▀▀             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       ▀▀  ▀  ▀▀▀▀▀▀▀ ▀▀▀▀▀  ▀▀     ▀                                                           
+                                               ▀▀▀   ▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀       ▀▀▀▀▀▀  ▀▀▀▀▀▀   ▀▀▀▀  ▀▀     ▀                                                            
+                                                 ▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀          ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀ ▀▀▀▀▀▀  ▀▀     ▀                                                             
+                                                ▀▀▀▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀ ▀  ▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀  ▀▀▀▀▀ ▀▀▀▀▀▀  ▀▀  ▀▀  ▀                                                             
+                                                   ▀▀ ▀ ▀▀▀▀▀      ▀▀▀▀▀ ▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀  ▀▀ ▀  ▀▀▀▀▀▀ ▀▀ ▀     ▀▀▀▀▀  ▀                                                             
+                                                     ▀ ▀▀       ▀▀▀▀▀▀▀ ▀▀▀    ▀▀     ▀▀▀▀▀▀▀  ▀▀  ▀▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀   ▀                                                              
+                                                     ▀▀▀▀    ▀▀▀▀▀▀ ▀▀  ▀▀ ▀▀  ▀▀▀▀  ▀▀▀▀ ▀▀ ▀▀▀ ▀▀▀▀▀▀▀▀ ▀▀▀▀▀     ▀▀                                                               
+                                                     ▀▀▀▀  ▀ ▀▀ ▀  ▀▀▀  ▀▀ ▀▀▀▀ ▀▀  ▀  ▀▀ ▀   ▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀                                                                 
+                                                       ▀▀     ▀▀ ▀▀▀   ▀▀▀ ▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀  ▀▀▀▀         ▀  ▀▀▀▀▀                                                                    
+                                                      ▀▀▀    ▀▀▀  ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀                                                                                   
+                                                    ▀▀     ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀   ▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀ ▀▀                                                                                     
+                                                   ▀ ▀▀ ▀▀▀▀▀▀    ▀▀▀▀   ▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀                                                                                       
+                                                  ▀     ▀▀▀  ▀▀▀▀▀▀▀      ▀▀▀▀▀      ▀▀▀▀                                                                                            
+                                                  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                                                                    
+                                                   ▀▀▀▀▀▀▀▀▀▀▀                                                                                                                       
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+Machine has missed.
+Mibram swung and hit for 48 points of damage.
+ Machines health is now 52.
+Machine has missed.
+Mibram swung and hit for 45 points of damage.
+ Machines health is now 7.
+Machine has missed.
+Mibram swung and hit for 12 points of damage.
+ Machine has died.
+
+ROUND 3 of 3:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Machines weapon is the Handaxe.
+Mibrams weapon is the Rapier.
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                     ▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                              
+                                                                                                   ▀▀       ▀▀         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                              
+                                                         ▀▀▀▀             ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀     ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀      ▀▀▀▀▀ ▀▀                                               
+                                                 ▀▀▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀   ▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀         ▀▀▀▀▀▀▀▀▀▀▀▀                                                  
+                                              ▀▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀    ▀▀▀▀ ▀▀▀▀▀    ▀▀▀▀▀▀▀▀ ▀                                                      
+                                             ▀  ▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀ ▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀      ▀▀▀    ▀▀▀   ▀▀▀▀   ▀▀                                                        
+                                             ▀▀▀▀▀ ▀      ▀▀▀▀▀▀        ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀    ▀▀      ▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀    ▀▀                                                          
+                                              ▀▀▀▀▀▀             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀       ▀▀  ▀  ▀▀▀▀▀▀▀ ▀▀▀▀▀  ▀▀     ▀                                                           
+                                               ▀▀▀   ▀▀▀▀▀       ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀       ▀▀▀▀▀▀  ▀▀▀▀▀▀   ▀▀▀▀  ▀▀     ▀                                                            
+                                                 ▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀          ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀ ▀▀▀▀▀▀  ▀▀     ▀                                                             
+                                                ▀▀▀▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀ ▀  ▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀  ▀▀▀▀▀ ▀▀▀▀▀▀  ▀▀  ▀▀  ▀                                                             
+                                                   ▀▀ ▀ ▀▀▀▀▀      ▀▀▀▀▀ ▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀  ▀▀ ▀  ▀▀▀▀▀▀ ▀▀ ▀     ▀▀▀▀▀  ▀                                                             
+                                                     ▀ ▀▀       ▀▀▀▀▀▀▀ ▀▀▀    ▀▀     ▀▀▀▀▀▀▀  ▀▀  ▀▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀   ▀                                                              
+                                                     ▀▀▀▀    ▀▀▀▀▀▀ ▀▀  ▀▀ ▀▀  ▀▀▀▀  ▀▀▀▀ ▀▀ ▀▀▀ ▀▀▀▀▀▀▀▀ ▀▀▀▀▀     ▀▀                                                               
+                                                     ▀▀▀▀  ▀ ▀▀ ▀  ▀▀▀  ▀▀ ▀▀▀▀ ▀▀  ▀  ▀▀ ▀   ▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀                                                                 
+                                                       ▀▀     ▀▀ ▀▀▀   ▀▀▀ ▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀  ▀▀▀▀         ▀  ▀▀▀▀▀                                                                    
+                                                      ▀▀▀    ▀▀▀  ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀                                                                                   
+                                                    ▀▀     ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀   ▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀ ▀▀                                                                                     
+                                                   ▀ ▀▀ ▀▀▀▀▀▀    ▀▀▀▀   ▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀                                                                                       
+                                                  ▀     ▀▀▀  ▀▀▀▀▀▀▀      ▀▀▀▀▀      ▀▀▀▀                                                                                            
+                                                  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                                                                    
+                                                   ▀▀▀▀▀▀▀▀▀▀▀                                                                                                                       
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+Machine has missed.
+Mibram swung and hit for 36 points of damage.
+ Machines health is now 64.
+Machine has missed.
+Mibram swung and hit for 26 points of damage.
+ Machines health is now 38.
+Machine has missed.
+Mibram swung and hit for 8 points of damage.
+ Machines health is now 30.
+Machine has missed.
+Mibram swung and hit for 34 points of damage.
+ Machine has died.
+
+Mibram won round 1 using a Longsword.
+Mibram won round 2 using a Mace.
+Mibram won round 3 using a Rapier.
+
+Mibram was ..
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                         ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     ▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                           
+                                                              ▀▀▀▀       ▀▀▀▀▀    ▀   ▀    ▀▀   ▀        ▀     ▀▀▀    ▀ ▀▀▀                                                          
+                                                          ▀   ▀▀▀▀        ▀▀▀         ▀     ▀   ▀    ▀▀       ▀  ▀▀   ▀▀▀▀▀                                                          
+                                                          ▀   ▀▀▀    ▀▀  ▀▀▀▀▀    ▀  ▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀        ▀▀     ▀▀▀▀▀                                                           
+                                                           ▀▀▀  ▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀     ▀ ▀▀▀ ▀▀▀▀▀                                                                 
+                                                          ▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀                                                              
+                                                                                                                                                                                     
+                                                                       ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀      ▀▀▀▀                                                                         
+                                                                       ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀                                                                        
+                                                                           ▀▀▀    ▀▀  ▀▀▀▀▀▀▀      ▀▀▀▀▀                                                                             
+                                                                           ▀▀▀        ▀▀▀▀▀▀▀▀   ▀  ▀▀      ▀▀                                                                       
+                                                                      ▀▀  ▀▀▀▀   ▀    ▀▀▀▀▀▀▀▀   ▀▀    ▀                                                                             
+                                                                        ▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                         
+                                                                       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀                                                                       
+                                                                                       ▀▀▀▀▀▀                                                                                        
+                                                                                    ▀▀▀ ▀    ▀▀▀                                                                                     
+                                                                                ▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀                                                                                  
+                                                                             ▀▀▀ ▀▀▀▀  ▀ ▀▀      ▀  ▀▀▀                                                                              
+                                                                           ▀▀▀▀ ▀▀▀   ▀▀▀▀▀▀▀▀▀    ▀▀ ▀▀▀                                                                            
+                                                                            ▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀                                                                            
+                                                                            ▀▀      ▀▀▀ ▀▀▀▀▀     ▀   ▀                                                                              
+                                                                           ▀             ▀▀▀▀▀         ▀                                                                             
+                                                                               ▀▀ ▀▀             ▀▀▀▀▀ ▀ ▀                                                                           
+                                                                          ▀▀▀▀ ▀▀ ▀      ▀▀▀▀    ▀▀▀▀  ▀                                                                             
+                                                                               ▀  ▀ ▀▀         ▀ ▀▀▀▀▀   ▀                                                                           
+                                                                                 ▀▀ ▀▀    ▀▀▀  ▀▀▀       ▀                                                                           
+                                                                           ▀▀    ▀▀▀     ▀▀▀ ▀  ▀▀▀▀  ▀▀▀▀                                                                           
+                                                                           ▀▀▀▀▀▀▀▀▀▀     ▀▀▀     ▀▀ ▀▀▀▀                                                                            
+                                                                              ▀▀▀▀▀▀▀  ▀▀▀▀▀ ▀  ▀ ▀▀▀▀                                                                               
+                                                                                 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀                                                                                  
+                                                                                     ▀▀▀▀  ▀▀▀▀▀                                                                                     
+                                                                                        ▀▀▀▀                                                                                         
+                                                                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                                                         
+                                                                         ▀▀▀▀▀▀   ▀   ▀▀▀    ▀▀      ▀▀▀▀▀ ▀                                                                         
+                                                                        ▀▀▀▀▀▀▀      ▀▀▀▀▀   ▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀                                                                         
+                                                                         ▀  ▀▀▀▀▀▀ ▀  ▀▀▀▀   ▀ ▀▀▀▀▀▀▀▀▀   ▀                                                                         
+                                                                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀ ▀                                                                         
+                                                                          ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     ▀▀▀▀▀▀▀▀▀▀                                                                         
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+                                                                                                                                                                                     
+and won the game.

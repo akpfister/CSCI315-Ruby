@@ -1,0 +1,963 @@
+Welcome to D&D Dice Roller!
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                           ▀▀▀▀                                           
+                                        ▀▀▀▀▀▀▀▀▀                                         
+                                        ▀▀▀▀  ▀▀▀▀                                        
+                                        ▀▀▀▀▀▀▀▀▀▀                                        
+                                ▀▀▀      ▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀                               
+                             ▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀                             
+                            ▀▀  ▀▀▀▀ ▀▀      ▀▀      ▀▀▀▀▀▀▀▀                             
+                            ▀▀▀▀ ▀▀▀▀▀      ▀▀▀▀   ▀ ▀▀▀▀▀▀▀▀                             
+                            ▀▀▀▀▀▀▀ ▀▀▀▀  ▀▀▀▀ ▀▀  ▀▀▀▀▀▀▀▀                               
+                              ▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀                                        
+                               ▀▀ ▀▀     ▀▀▀▀▀▀▀▀▀▀     ▀▀▀                               
+                            ▀▀▀▀▀▀▀▀▀                ▀▀▀▀▀ ▀▀▀                            
+                          ▀ ▀▀▀▀  ▀▀▀▀      ▀▀    ▀ ▀▀▀▀▀▀▀▀▀▀                            
+                               ▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀▀▀                            
+                          ▀  ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                            
+                            ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀ ▀▀▀                             
+                                      ▀ ▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀                                  
+                                   ▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀                                     
+                                       ▀▀▀▀▀▀▀▀▀  ▀                                       
+                                     ▀▀▀  ▀ ▀ ▀▀▀                                         
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Please enter Machine weapon set.
+Name of weapon:
+Hit chance for Khopesh:
+Damage modifier for Khopesh:
+Dice size for Khopesh:
+Khopesh has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Sickle:
+Damage modifier for Sickle:
+Dice size for Sickle:
+Sickle has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Handaxe:
+Damage modifier for Handaxe:
+Dice size for Handaxe:
+Handaxe has been added to Machine weapon set.
+Please enter Human weapon set.
+Name of weapon:
+Hit chance for Longsword:
+Dice size for Longsword:
+Longsword has been added to Human weapon set.
+Name of weapon:
+Hit chance for Mace:
+Dice size for Mace:
+Mace has been added to Human weapon set.
+Name of weapon:
+Hit chance for Rapier:
+Dice size for Rapier:
+Rapier has been added to Human weapon set.
+Enter starting health for the players.
+Please enter name of Player One (Machine if machine).
+Please enter name of Player Two (Machine if machine).
+How many rounds would you like to play?
+
+ROUND 1 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Longsword.
+Mibrams weapon is the Mace.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem swung and hit for 30 points of damage.
+ Mibrams health is now 70.
+Mibram swung and hit for 9 points of damage.
+ Agnems health is now 91.
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 2 points of damage.
+ Mibrams health is now 68.
+Mibram swung and hit for 9 points of damage.
+ Agnems health is now 82.
+Agnem swung and hit for 16 points of damage.
+ Mibrams health is now 52.
+Mibram swung and hit for 21 points of damage.
+ Agnems health is now 61.
+Agnem has missed.
+Mibram swung and hit for 9 points of damage.
+ Agnems health is now 52.
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 39 points of damage.
+ Agnems health is now 13.
+Agnem swung and hit for 14 points of damage.
+ Mibrams health is now 38.
+Mibram has missed.
+Agnem swung and hit for 4 points of damage.
+ Mibrams health is now 34.
+Mibram has missed.
+Agnem swung and hit for 8 points of damage.
+ Mibrams health is now 26.
+Mibram has missed.
+Agnem swung and hit for 20 points of damage.
+ Mibrams health is now 6.
+Mibram has missed.
+Agnem swung and hit for 6 points of damage.
+ Mibram has died.
+
+ROUND 2 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Mace.
+Mibrams weapon is the Rapier.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 6 points of damage.
+ Mibrams health is now 94.
+Mibram swung and hit for 20 points of damage.
+ Agnems health is now 80.
+Agnem has missed.
+Mibram swung and hit for 28 points of damage.
+ Agnems health is now 52.
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 28 points of damage.
+ Agnems health is now 24.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 18 points of damage.
+ Mibrams health is now 76.
+Mibram swung and hit for 4 points of damage.
+ Agnems health is now 20.
+Agnem swung and hit for 15 points of damage.
+ Mibrams health is now 61.
+Mibram swung and hit for 20 points of damage.
+ Agnem has died.
+
+ROUND 3 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Rapier.
+Mibrams weapon is the Longsword.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem swung and hit for 22 points of damage.
+ Mibrams health is now 78.
+Mibram has missed.
+Agnem swung and hit for 36 points of damage.
+ Mibrams health is now 42.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 2 points of damage.
+ Agnems health is now 98.
+Agnem swung and hit for 30 points of damage.
+ Mibrams health is now 12.
+Mibram swung and hit for 4 points of damage.
+ Agnems health is now 94.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 18 points of damage.
+ Mibram has died.
+
+ROUND 4 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Longsword.
+Mibrams weapon is the Mace.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem swung and hit for 12 points of damage.
+ Mibrams health is now 88.
+Mibram has missed.
+Agnem swung and hit for 16 points of damage.
+ Mibrams health is now 72.
+Mibram swung and hit for 24 points of damage.
+ Agnems health is now 76.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 4 points of damage.
+ Mibrams health is now 68.
+Mibram swung and hit for 33 points of damage.
+ Agnems health is now 43.
+Agnem swung and hit for 38 points of damage.
+ Mibrams health is now 30.
+Mibram has missed.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 8 points of damage.
+ Mibrams health is now 22.
+Mibram has missed.
+Agnem swung and hit for 20 points of damage.
+ Mibrams health is now 2.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 15 points of damage.
+ Agnems health is now 28.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 16 points of damage.
+ Mibram has died.
+
+ROUND 5 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Mace.
+Mibrams weapon is the Rapier.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem swung and hit for 48 points of damage.
+ Mibrams health is now 52.
+Mibram swung and hit for 10 points of damage.
+ Agnems health is now 90.
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 21 points of damage.
+ Mibrams health is now 31.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 6 points of damage.
+ Agnems health is now 84.
+Agnem swung and hit for 30 points of damage.
+ Mibrams health is now 1.
+Mibram swung and hit for 10 points of damage.
+ Agnems health is now 74.
+Agnem has missed.
+Mibram swung and hit for 14 points of damage.
+ Agnems health is now 60.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 45 points of damage.
+ Mibram has died.
+
+ROUND 6 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Rapier.
+Mibrams weapon is the Longsword.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 8 points of damage.
+ Agnems health is now 92.
+Agnem swung and hit for 18 points of damage.
+ Mibrams health is now 82.
+Mibram has missed.
+Agnem swung and hit for 14 points of damage.
+ Mibrams health is now 68.
+Mibram has missed.
+Agnem swung and hit for 36 points of damage.
+ Mibrams health is now 32.
+Mibram swung and hit for 22 points of damage.
+ Agnems health is now 70.
+Agnem swung and hit for 20 points of damage.
+ Mibrams health is now 12.
+Mibram has missed.
+Agnem swung and hit for 34 points of damage.
+ Mibram has died.
+
+ROUND 7 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Longsword.
+Mibrams weapon is the Mace.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram swung and hit for 36 points of damage.
+ Agnems health is now 64.
+Agnem swung and hit for 6 points of damage.
+ Mibrams health is now 94.
+Mibram swung and hit for 48 points of damage.
+ Agnems health is now 16.
+Agnem swung and hit for 32 points of damage.
+ Mibrams health is now 62.
+Mibram has missed.
+Agnem swung and hit for 8 points of damage.
+ Mibrams health is now 54.
+Mibram has missed.
+Agnem swung and hit for 26 points of damage.
+ Mibrams health is now 28.
+Mibram swung and hit for 12 points of damage.
+ Agnems health is now 4.
+Agnem swung and hit for 16 points of damage.
+ Mibrams health is now 12.
+Mibram swung and hit for 24 points of damage.
+ Agnem has died.
+
+ROUND 8 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Mace.
+Mibrams weapon is the Rapier.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram swung and hit for 22 points of damage.
+ Agnems health is now 78.
+Agnem has missed.
+Mibram swung and hit for 20 points of damage.
+ Agnems health is now 58.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 42 points of damage.
+ Mibrams health is now 58.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 24 points of damage.
+ Agnems health is now 34.
+Agnem swung and hit for 33 points of damage.
+ Mibrams health is now 25.
+Mibram swung and hit for 10 points of damage.
+ Agnems health is now 24.
+Agnem has missed.
+Mibram swung and hit for 34 points of damage.
+ Agnem has died.
+
+ROUND 9 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Rapier.
+Mibrams weapon is the Longsword.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram swung and hit for 2 points of damage.
+ Agnems health is now 98.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 2 points of damage.
+ Mibrams health is now 98.
+Mibram swung and hit for 14 points of damage.
+ Agnems health is now 84.
+Agnem has missed.
+Mibram swung and hit for 30 points of damage.
+ Agnems health is now 54.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 28 points of damage.
+ Mibrams health is now 70.
+Mibram has missed.
+Agnem swung and hit for 4 points of damage.
+ Mibrams health is now 66.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 22 points of damage.
+ Agnems health is now 32.
+Agnem has missed.
+Mibram swung and hit for 20 points of damage.
+ Agnems health is now 12.
+Agnem swung and hit for 22 points of damage.
+ Mibrams health is now 44.
+Mibram has missed.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 22 points of damage.
+ Mibrams health is now 22.
+Mibram has missed.
+Agnem swung and hit for 10 points of damage.
+ Mibrams health is now 12.
+Mibram swung and hit for 24 points of damage.
+ Agnem has died.
+
+ROUND 10 of 10:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Longsword.
+Mibrams weapon is the Mace.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram swung and hit for 12 points of damage.
+ Agnems health is now 88.
+Agnem swung and hit for 10 points of damage.
+ Mibrams health is now 90.
+Mibram has missed.
+Agnem has missed.
+Mibram swung and hit for 6 points of damage.
+ Agnems health is now 82.
+Agnem swung and hit for 2 points of damage.
+ Mibrams health is now 88.
+Mibram has missed.
+Agnem swung and hit for 36 points of damage.
+ Mibrams health is now 52.
+Mibram swung and hit for 9 points of damage.
+ Agnems health is now 73.
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 14 points of damage.
+ Mibrams health is now 38.
+Mibram swung and hit for 36 points of damage.
+ Agnems health is now 37.
+Agnem swung and hit for 22 points of damage.
+ Mibrams health is now 16.
+Mibram swung and hit for 18 points of damage.
+ Agnems health is now 19.
+Agnem swung and hit for 32 points of damage.
+ Mibram has died.
+
+Agnem won round 1 using a Longsword.
+Mibram won round 2 using a Rapier.
+Agnem won round 3 using a Rapier.
+Agnem won round 4 using a Longsword.
+Agnem won round 5 using a Mace.
+Agnem won round 6 using a Rapier.
+Mibram won round 7 using a Mace.
+Mibram won round 8 using a Rapier.
+Mibram won round 9 using a Longsword.
+Agnem won round 10 using a Longsword.
+
+Agnem was ..
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                             ▀▀▀▀  ▀ ▀▀  ▀    ▀    ▀ ▀▀ ▀▀                                
+                             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀   ▀▀▀▀▀▀▀▀▀▀                             
+                               ▀  ▀ ▀▀▀ ▀ ▀▀▀▀ ▀▀▀▀   ▀▀▀▀▀▀▀                             
+                            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                               
+                                   ▀▀▀▀  ▀▀▀▀▀▀▀▀  ▀▀                                     
+                                    ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀                                   
+                                    ▀▀▀    ▀▀ ▀   ▀▀  ▀                                   
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                   
+                                         ▀▀▀▀▀▀▀                                          
+                                      ▀▀▀▀▀▀▀▀▀▀▀▀▀                                       
+                                    ▀▀ ▀  ▀▀▀▀▀▀▀▀▀▀                                      
+                                      ▀  ▀ ▀▀▀    ▀ ▀                                     
+                                     ▀▀ ▀  ▀▀▀   ▀ ▀                                      
+                                       ▀ ▀  ▀▀ ▀▀▀▀▀▀                                     
+                                    ▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀▀                                     
+                                      ▀▀▀▀▀ ▀▀▀▀▀▀▀                                       
+                                          ▀▀▀▀▀▀                                          
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                    
+                                    ▀▀   ▀ ▀▀ ▀▀▀  ▀▀▀                                    
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀                                    
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+and won the game.

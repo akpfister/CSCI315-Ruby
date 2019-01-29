@@ -1,0 +1,607 @@
+Welcome to D&D Dice Roller!
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                           ▀▀▀▀                                           
+                                        ▀▀▀▀▀▀▀▀▀                                         
+                                        ▀▀▀▀  ▀▀▀▀                                        
+                                        ▀▀▀▀▀▀▀▀▀▀                                        
+                                ▀▀▀      ▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀                               
+                             ▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀                             
+                            ▀▀  ▀▀▀▀ ▀▀      ▀▀      ▀▀▀▀▀▀▀▀                             
+                            ▀▀▀▀ ▀▀▀▀▀      ▀▀▀▀   ▀ ▀▀▀▀▀▀▀▀                             
+                            ▀▀▀▀▀▀▀ ▀▀▀▀  ▀▀▀▀ ▀▀  ▀▀▀▀▀▀▀▀                               
+                              ▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀                                        
+                               ▀▀ ▀▀     ▀▀▀▀▀▀▀▀▀▀     ▀▀▀                               
+                            ▀▀▀▀▀▀▀▀▀                ▀▀▀▀▀ ▀▀▀                            
+                          ▀ ▀▀▀▀  ▀▀▀▀      ▀▀    ▀ ▀▀▀▀▀▀▀▀▀▀                            
+                               ▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀▀▀                            
+                          ▀  ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                            
+                            ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀ ▀▀▀                             
+                                      ▀ ▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀                                  
+                                   ▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀                                     
+                                       ▀▀▀▀▀▀▀▀▀  ▀                                       
+                                     ▀▀▀  ▀ ▀ ▀▀▀                                         
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Please enter Machine weapon set.
+Name of weapon:
+Hit chance for Khopesh:
+Damage modifier for Khopesh:
+Dice size for Khopesh:
+Khopesh has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Sickle:
+Damage modifier for Sickle:
+Dice size for Sickle:
+Sickle has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Handaxe:
+Damage modifier for Handaxe:
+Dice size for Handaxe:
+Handaxe has been added to Machine weapon set.
+Please enter Human weapon set.
+Name of weapon:
+Hit chance for Longsword:
+Dice size for Longsword:
+Longsword has been added to Human weapon set.
+Name of weapon:
+Hit chance for Mace:
+Dice size for Mace:
+Mace has been added to Human weapon set.
+Name of weapon:
+Hit chance for Rapier:
+Dice size for Rapier:
+Rapier has been added to Human weapon set.
+Enter starting health for the players.
+Please enter name of Player One (Machine if machine).
+Please enter name of Player Two (Machine if machine).
+How many rounds would you like to play?
+
+ROUND 1 of 5:
+Machines weapon is the Sickle.
+Machine2s weapon is the Handaxe.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Machine swung and hit for 14 points of damage.
+ Machine2s health is now 86.
+Machine2 swung and hit for 17 points of damage.
+ Machines health is now 83.
+Machine swung and hit for 12 points of damage.
+ Machine2s health is now 74.
+Machine2 swung and hit for 10 points of damage.
+ Machines health is now 73.
+Machine swung and hit for 16 points of damage.
+ Machine2s health is now 58.
+Machine2 swung and hit for 3 points of damage.
+ Machines health is now 70.
+Machine swung and hit for 18 points of damage.
+ Machine2s health is now 40.
+Machine2 swung and hit for 10 points of damage.
+ Machines health is now 60.
+Machine swung and hit for 24 points of damage.
+ Machine2s health is now 16.
+Machine2 swung and hit for 11 points of damage.
+ Machines health is now 49.
+Machine has missed.
+Machine2 swung and hit for 6 points of damage.
+ Machines health is now 43.
+Machine has missed.
+Machine2 swung and hit for 5 points of damage.
+ Machines health is now 38.
+Machine swung and hit for 2 points of damage.
+ Machine2s health is now 14.
+Machine2 has missed.
+Machine swung and hit for 20 points of damage.
+ Machine2 has died.
+
+ROUND 2 of 5:
+Machines weapon is the Handaxe.
+Machine2s weapon is the Handaxe.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Machine swung and hit for 7 points of damage.
+ Machine2s health is now 93.
+Machine2 has missed.
+Machine swung and hit for 12 points of damage.
+ Machine2s health is now 81.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine swung and hit for 18 points of damage.
+ Machine2s health is now 63.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 20 points of damage.
+ Machines health is now 80.
+Machine has missed.
+Machine2 has missed.
+Machine swung and hit for 19 points of damage.
+ Machine2s health is now 44.
+Machine2 has missed.
+Machine swung and hit for 16 points of damage.
+ Machine2s health is now 28.
+Machine2 swung and hit for 13 points of damage.
+ Machines health is now 67.
+Machine swung and hit for 3 points of damage.
+ Machine2s health is now 25.
+Machine2 swung and hit for 20 points of damage.
+ Machines health is now 47.
+Machine has missed.
+Machine2 has missed.
+Machine swung and hit for 16 points of damage.
+ Machine2s health is now 9.
+Machine2 has missed.
+Machine swung and hit for 2 points of damage.
+ Machine2s health is now 7.
+Machine2 has missed.
+Machine swung and hit for 2 points of damage.
+ Machine2s health is now 5.
+Machine2 swung and hit for 18 points of damage.
+ Machines health is now 29.
+Machine swung and hit for 9 points of damage.
+ Machine2 has died.
+
+ROUND 3 of 5:
+Machines weapon is the Sickle.
+Machine2s weapon is the Khopesh.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 6 points of damage.
+ Machines health is now 94.
+Machine swung and hit for 6 points of damage.
+ Machine2s health is now 94.
+Machine2 swung and hit for 24 points of damage.
+ Machines health is now 70.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 18 points of damage.
+ Machines health is now 52.
+Machine swung and hit for 16 points of damage.
+ Machine2s health is now 78.
+Machine2 swung and hit for 18 points of damage.
+ Machines health is now 34.
+Machine swung and hit for 2 points of damage.
+ Machine2s health is now 76.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine swung and hit for 6 points of damage.
+ Machine2s health is now 70.
+Machine2 swung and hit for 6 points of damage.
+ Machines health is now 28.
+Machine swung and hit for 22 points of damage.
+ Machine2s health is now 48.
+Machine2 swung and hit for 12 points of damage.
+ Machines health is now 16.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 24 points of damage.
+ Machine has died.
+
+ROUND 4 of 5:
+Machines weapon is the Khopesh.
+Machine2s weapon is the Khopesh.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Machine swung and hit for 9 points of damage.
+ Machine2s health is now 91.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine swung and hit for 27 points of damage.
+ Machine2s health is now 64.
+Machine2 swung and hit for 24 points of damage.
+ Machines health is now 76.
+Machine swung and hit for 15 points of damage.
+ Machine2s health is now 49.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 9 points of damage.
+ Machines health is now 67.
+Machine has missed.
+Machine2 swung and hit for 18 points of damage.
+ Machines health is now 49.
+Machine swung and hit for 3 points of damage.
+ Machine2s health is now 46.
+Machine2 swung and hit for 6 points of damage.
+ Machines health is now 43.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 9 points of damage.
+ Machines health is now 34.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 21 points of damage.
+ Machines health is now 13.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 30 points of damage.
+ Machine has died.
+
+ROUND 5 of 5:
+Machines weapon is the Sickle.
+Machine2s weapon is the Handaxe.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Machine has missed.
+Machine2 has missed.
+Machine swung and hit for 22 points of damage.
+ Machine2s health is now 78.
+Machine2 has missed.
+Machine swung and hit for 16 points of damage.
+ Machine2s health is now 62.
+Machine2 swung and hit for 16 points of damage.
+ Machines health is now 84.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 16 points of damage.
+ Machines health is now 68.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 16 points of damage.
+ Machines health is now 52.
+Machine has missed.
+Machine2 swung and hit for 18 points of damage.
+ Machines health is now 34.
+Machine has missed.
+Machine2 swung and hit for 20 points of damage.
+ Machines health is now 14.
+Machine swung and hit for 2 points of damage.
+ Machine2s health is now 60.
+Machine2 swung and hit for 6 points of damage.
+ Machines health is now 8.
+Machine has missed.
+Machine2 has missed.
+Machine has missed.
+Machine2 swung and hit for 3 points of damage.
+ Machines health is now 5.
+Machine swung and hit for 16 points of damage.
+ Machine2s health is now 44.
+Machine2 swung and hit for 15 points of damage.
+ Machine has died.
+
+Machine won round 1 using a Sickle.
+Machine won round 2 using a Handaxe.
+Machine2 won round 3 using a Khopesh.
+Machine2 won round 4 using a Khopesh.
+Machine2 won round 5 using a Handaxe.
+
+Machine2 was ..
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                             ▀▀▀▀  ▀ ▀▀  ▀    ▀    ▀ ▀▀ ▀▀                                
+                             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀   ▀▀▀▀▀▀▀▀▀▀                             
+                               ▀  ▀ ▀▀▀ ▀ ▀▀▀▀ ▀▀▀▀   ▀▀▀▀▀▀▀                             
+                            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                               
+                                   ▀▀▀▀  ▀▀▀▀▀▀▀▀  ▀▀                                     
+                                    ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀                                   
+                                    ▀▀▀    ▀▀ ▀   ▀▀  ▀                                   
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                   
+                                         ▀▀▀▀▀▀▀                                          
+                                      ▀▀▀▀▀▀▀▀▀▀▀▀▀                                       
+                                    ▀▀ ▀  ▀▀▀▀▀▀▀▀▀▀                                      
+                                      ▀  ▀ ▀▀▀    ▀ ▀                                     
+                                     ▀▀ ▀  ▀▀▀   ▀ ▀                                      
+                                       ▀ ▀  ▀▀ ▀▀▀▀▀▀                                     
+                                    ▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀▀                                     
+                                      ▀▀▀▀▀ ▀▀▀▀▀▀▀                                       
+                                          ▀▀▀▀▀▀                                          
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                    
+                                    ▀▀   ▀ ▀▀ ▀▀▀  ▀▀▀                                    
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀                                    
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+and won the game.

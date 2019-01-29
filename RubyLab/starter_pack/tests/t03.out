@@ -1,0 +1,214 @@
+Welcome to D&D Dice Roller!
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                           ▀▀▀▀                                           
+                                        ▀▀▀▀▀▀▀▀▀                                         
+                                        ▀▀▀▀  ▀▀▀▀                                        
+                                        ▀▀▀▀▀▀▀▀▀▀                                        
+                                ▀▀▀      ▀▀▀▀▀▀▀▀▀    ▀▀▀▀▀                               
+                             ▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀    ▀▀▀▀▀▀▀▀▀                             
+                            ▀▀  ▀▀▀▀ ▀▀      ▀▀      ▀▀▀▀▀▀▀▀                             
+                            ▀▀▀▀ ▀▀▀▀▀      ▀▀▀▀   ▀ ▀▀▀▀▀▀▀▀                             
+                            ▀▀▀▀▀▀▀ ▀▀▀▀  ▀▀▀▀ ▀▀  ▀▀▀▀▀▀▀▀                               
+                              ▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀                                        
+                               ▀▀ ▀▀     ▀▀▀▀▀▀▀▀▀▀     ▀▀▀                               
+                            ▀▀▀▀▀▀▀▀▀                ▀▀▀▀▀ ▀▀▀                            
+                          ▀ ▀▀▀▀  ▀▀▀▀      ▀▀    ▀ ▀▀▀▀▀▀▀▀▀▀                            
+                               ▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀▀▀                            
+                          ▀  ▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                            
+                            ▀▀▀▀▀▀▀▀    ▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀ ▀▀▀                             
+                                      ▀ ▀ ▀▀▀▀▀▀▀▀▀  ▀▀▀                                  
+                                   ▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀                                     
+                                       ▀▀▀▀▀▀▀▀▀  ▀                                       
+                                     ▀▀▀  ▀ ▀ ▀▀▀                                         
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Please enter Machine weapon set.
+Name of weapon:
+Hit chance for Khopesh:
+Damage modifier for Khopesh:
+Dice size for Khopesh:
+Khopesh has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Sickle:
+Damage modifier for Sickle:
+Dice size for Sickle:
+Sickle has been added to Machine weapon set.
+Name of weapon:
+Hit chance for Handaxe:
+Damage modifier for Handaxe:
+Dice size for Handaxe:
+Handaxe has been added to Machine weapon set.
+Please enter Human weapon set.
+Name of weapon:
+Hit chance for Longsword:
+Dice size for Longsword:
+Longsword has been added to Human weapon set.
+Name of weapon:
+Hit chance for Mace:
+Dice size for Mace:
+Mace has been added to Human weapon set.
+Name of weapon:
+Hit chance for Rapier:
+Dice size for Rapier:
+Rapier has been added to Human weapon set.
+Enter starting health for the players.
+Please enter name of Player One (Machine if machine).
+Please enter name of Player Two (Machine if machine).
+How many rounds would you like to play?
+
+ROUND 1 of 1:
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Pick a weapon: Longsword(0), Mace(1), Rapier(2)
+Agnems weapon is the Longsword.
+Mibrams weapon is the Longsword.
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                          ▀▀     ▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                       
+                      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀▀▀▀▀                           
+                      ▀▀  ▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀ ▀▀▀ ▀▀▀▀▀▀▀ ▀                                
+                       ▀▀▀▀▀ ▀  ▀▀▀▀▀▀▀ ▀ ▀▀▀▀▀▀▀▀▀ ▀▀ ▀▀  ▀                              
+                        ▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀ ▀▀ ▀ ▀▀▀                                
+                            ▀ ▀▀▀▀ ▀▀  ▀  ▀▀▀▀▀▀ ▀▀▀▀ ▀▀▀ ▀▀                              
+                          ▀   ▀ ▀▀  ▀▀▀▀▀▀▀▀▀ ▀▀▀  ▀▀▀▀▀▀▀                                
+                          ▀▀  ▀▀▀▀▀▀  ▀ ▀▀▀▀▀▀▀ ▀                                         
+                         ▀▀ ▀▀▀  ▀▀ ▀ ▀▀▀▀▀▀ ▀▀                                           
+                        ▀▀▀▀▀▀▀▀                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+Agnem has missed.
+Mibram has missed.
+Agnem swung and hit for 14 points of damage.
+ Mibrams health is now 86.
+Mibram swung and hit for 14 points of damage.
+ Agnems health is now 86.
+Agnem has missed.
+Mibram swung and hit for 10 points of damage.
+ Agnems health is now 76.
+Agnem swung and hit for 16 points of damage.
+ Mibrams health is now 70.
+Mibram swung and hit for 20 points of damage.
+ Agnems health is now 56.
+Agnem swung and hit for 30 points of damage.
+ Mibrams health is now 40.
+Mibram swung and hit for 18 points of damage.
+ Agnems health is now 38.
+Agnem swung and hit for 28 points of damage.
+ Mibrams health is now 12.
+Mibram has missed.
+Agnem swung and hit for 16 points of damage.
+ Mibram has died.
+
+Agnem won round 1 using a Longsword.
+
+Agnem was ..
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                             ▀▀▀▀  ▀ ▀▀  ▀    ▀    ▀ ▀▀ ▀▀                                
+                             ▀▀▀▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀   ▀▀▀▀▀▀▀▀▀▀                             
+                               ▀  ▀ ▀▀▀ ▀ ▀▀▀▀ ▀▀▀▀   ▀▀▀▀▀▀▀                             
+                            ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                               
+                                   ▀▀▀▀  ▀▀▀▀▀▀▀▀  ▀▀                                     
+                                    ▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀▀▀                                   
+                                    ▀▀▀    ▀▀ ▀   ▀▀  ▀                                   
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                   
+                                         ▀▀▀▀▀▀▀                                          
+                                      ▀▀▀▀▀▀▀▀▀▀▀▀▀                                       
+                                    ▀▀ ▀  ▀▀▀▀▀▀▀▀▀▀                                      
+                                      ▀  ▀ ▀▀▀    ▀ ▀                                     
+                                     ▀▀ ▀  ▀▀▀   ▀ ▀                                      
+                                       ▀ ▀  ▀▀ ▀▀▀▀▀▀                                     
+                                    ▀▀▀▀▀  ▀▀▀ ▀▀▀▀▀▀                                     
+                                      ▀▀▀▀▀ ▀▀▀▀▀▀▀                                       
+                                          ▀▀▀▀▀▀                                          
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀                                    
+                                    ▀▀   ▀ ▀▀ ▀▀▀  ▀▀▀                                    
+                                   ▀▀▀▀▀▀▀▀▀▀▀▀ ▀▀▀▀▀▀                                    
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+                                                                                          
+and won the game.

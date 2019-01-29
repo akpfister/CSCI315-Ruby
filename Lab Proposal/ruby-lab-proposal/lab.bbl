@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{code:beginners}
+Ruby~For Beginneers.
+\newblock {M}odules, 2018.
+\newblock \url{http://ruby-for-beginners.rubymonstas.org/advanced/modules.html}
+  [Online; accessed 08-April-2018].
+
+\bibitem{code:github}
+pazdera.
+\newblock {C}atpix, 2015.
+\newblock \url{https://github.com/pazdera/catpix} [Online; accessed
+  09-April-2018].
+
+\bibitem{code:blog}
+TK.
+\newblock {R}uby 101: {O}bject {O}riented {P}rogramming, 2018.
+\newblock
+  \url{https://medium.com/the-renaissance-developer/ruby-101-object-oriented-programming-part-1-af734f87f481}
+  [Online; accessed 08-April-2018].
+
+\end{thebibliography}

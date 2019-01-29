@@ -1,0 +1,5 @@
+t01.in - Player 2 is a Machine and will always miss, Player 1 should always hit and win the game.
+t02.in - Player 1 is a Machine and will always miss, Player 2 should always hit and win the game.
+t03.in - Player 1 and Player 2 are both humans, they use the same weapons and play 1 round.
+t04.in - Player 1 and Player 2 are both humans, they use different weapons and play 10 rounds.
+t05.in - Player 1 and Player 2 are both machines, they play 5 rounds.
